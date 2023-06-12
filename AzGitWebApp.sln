@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzGitWebApp", "AzGitWebApp.csproj", "{F49D2841-AB8C-40DE-A1F9-2D6ED1D2B07D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49D2841-AB8C-40DE-A1F9-2D6ED1D2B07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49D2841-AB8C-40DE-A1F9-2D6ED1D2B07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49D2841-AB8C-40DE-A1F9-2D6ED1D2B07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49D2841-AB8C-40DE-A1F9-2D6ED1D2B07D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07B7D2AC-6554-4DAC-9160-81C847F7D4E1}
+	EndGlobalSection
+EndGlobal
